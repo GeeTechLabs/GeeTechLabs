@@ -4,8 +4,7 @@
 - 📫 How to reach me geetechlabs@gmail.com
 - ⏮️ Previous Profiles https://github.com/g-cracker https://github.com/geedevs
 
-[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)](https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs)](https://github.com/GeeTechLabs/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GeeTechLabs&repo=github-readme-stats)](https://github.com/GeeTechLabs/github-readme-stats)
+[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)](https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs)](https://github.com/GeeTechLabs/github-readme-stats)
 [![GeeTechLabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeeTechLabs)](https://github.com/GeeTechLabs/github-readme-stats)
 <!---
 GeeTechLabs/GeeTechLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
