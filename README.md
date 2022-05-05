@@ -4,7 +4,7 @@
 - 📫 How to reach me geetechlabs@gmail.com
 - ⏮️ Previous Profiles https://github.com/g-cracker https://github.com/geedevs
 
-[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)](https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact)](https://github.com/GeeTechLabs/github-readme-stats)
+[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)](https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GeeTechLabs&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![GeeTechLabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeeTechLabs&layout=compact)](https://github.com/GeeTechLabs/github-readme-stats)
 
