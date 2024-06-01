@@ -5,15 +5,23 @@
 - ⏮️ Previous Profiles https://github.com/g-cracker https://github.com/geedevs
 
 <table>
+  ```html
+<a href="https://github.com/GeeTechLabs/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeeTechLabs&repo=github-readme-stats&count_private=true&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark" />
+</a>
+```
 <tr>
 <td>
 
-[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)]
+[![GeeTechLabs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark)](https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact)](https://github.com/GeeTechLabs/github-readme-stats)
 
 </td>
 <td>
 
-(https://github.com/GeeTechLabs/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact)](https://github.com/GeeTechLabs/github-readme-stats)
+
 
 </td>
 </tr>
@@ -30,6 +38,8 @@
 </td>
 </tr>
 </table>
+
+
 
 
 <!---
