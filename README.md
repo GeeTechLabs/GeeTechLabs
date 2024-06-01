@@ -5,15 +5,7 @@
 - ⏮️ Previous Profiles https://github.com/g-cracker https://github.com/geedevs
 
 <table>
-  
-```html
-<a href="https://github.com/GeeTechLabs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GeeTechLabs&repo=github-readme-stats&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact" />
-</a>
-```
+
 <tr>
 <td>
 
@@ -29,7 +21,7 @@
 <tr>
 <td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GeeTechLabs&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=100%)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GeeTechLabs&card_width=100%&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </td>
 <td>
