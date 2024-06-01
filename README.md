@@ -26,7 +26,7 @@
 </td>
 <td>
 
-[![GeeTechLabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeeTechLabs&layout=compact&langs_count=8&card_width=100%)](https://github.com/GeeTechLabs/github-readme-stats)
+[![GeeTechLabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GeeTechLabs&layout=compact&langs_count=8)](https://github.com/GeeTechLabs/github-readme-stats)
 
 </td>
 </tr>
