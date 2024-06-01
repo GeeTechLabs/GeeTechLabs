@@ -5,12 +5,13 @@
 - ⏮️ Previous Profiles https://github.com/g-cracker https://github.com/geedevs
 
 <table>
+  
   ```html
 <a href="https://github.com/GeeTechLabs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeeTechLabs&repo=github-readme-stats&count_private=true&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GeeTechLabs&repo=github-readme-stats&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeeTechLabs&count_private=true&show_icons=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeeTechLabs&layout=compact" />
 </a>
 ```
 <tr>
